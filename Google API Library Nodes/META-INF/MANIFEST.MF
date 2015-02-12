@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Google API Libraries for KNIME Workbench
 Bundle-SymbolicName: com.pg.google.api
-Bundle-Version: 1.0.0
+Bundle-Version: 1.0.19
 Bundle-ClassPath: lib/commons-logging-1.1.1.jar,
  lib/google-api-client-1.19.1.jar,
  lib/google-api-client-gson-1.19.1.jar,
