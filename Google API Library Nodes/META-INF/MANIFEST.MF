@@ -161,5 +161,5 @@ Export-Package: com.fasterxml.jackson.core.base,
  org.mortbay.util,
  org.mortbay.util.ajax,
  org.mortbay.xml
-Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Bundle-RequiredExecutionEnvironment: JavaSE-1.8
 
