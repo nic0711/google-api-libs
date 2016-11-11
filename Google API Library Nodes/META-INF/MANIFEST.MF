@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Google API Libraries for KNIME Workbench
 Bundle-SymbolicName: com.pg.google.api
-Bundle-Version: 1.0.21
+Bundle-Version: 1.0.22
 Bundle-Vendor: Procter & Gamble, eBusiness
 Require-Bundle: org.eclipse.core.runtime,
  org.knime.workbench.core,
