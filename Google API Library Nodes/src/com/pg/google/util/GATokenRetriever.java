@@ -50,7 +50,7 @@ public class GATokenRetriever {
 	public static String GET_AUTH_CODE() throws IOException {
 		
 		Collection<String> requestedScopes = new ArrayList<String>();
-		Collections.addAll(requestedScopes, WEBMASTER_SCOPE);
+		Collections.addAll(requestedScopes, ADWORDS_SCOPE);
 		
 		// Generate the URL to send the user to grant access.
 		String authorizationUrl = new GoogleAuthorizationCodeRequestUrl(
